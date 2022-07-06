@@ -1,5 +1,5 @@
 # Wasp-Reproduction
-The data can be found in the file titled
+The data can be found in the file titled: Mealy_Data.xlsx
 
 ## Introduction
 
