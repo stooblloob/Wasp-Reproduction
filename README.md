@@ -45,6 +45,8 @@ For `Longevity`, the lambda value was 2, so I used square-transformation. For `M
 
 ## My Findings
 
+**Analysis of Variance Test**
+
 `Longevity` - Since the p-value < α = 0.05, we reject the null hypothesis. We can
 conclude that there is a significant difference in treatment effects on this variable.
 
